@@ -1,6 +1,9 @@
 Detroit House Price Prediction API
+
 A machine learning model that predicts residential sale prices in Detroit, MI, deployed as a containerized REST API on Google Cloud Platform (Cloud Run).
+
 Built for: Machine Learning Model Deployment Assignment - Spring 2026
+
 ---
 Project Structure
 ```
